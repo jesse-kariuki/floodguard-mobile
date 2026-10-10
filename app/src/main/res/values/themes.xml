@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Floodguard" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground">@color/lightCyan</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/alt_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Floodguard</item>
+
+    </style>
+
+</resources>

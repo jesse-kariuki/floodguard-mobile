@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67147973968",
+    "project_id": "inthezonewithme",
+    "storage_bucket": "inthezonewithme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67147973968:android:3fc51258adea6c450b5855",
+        "android_client_info": {
+          "package_name": "com.icse.floodguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMCU3c1QgbG_31UlWeUF6BGHRE2ytaXCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
